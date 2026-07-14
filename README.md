@@ -4,6 +4,9 @@
 -->
 # Eaglercraft 1.8.8 WASM-GC Unofficial
 
+> [!WARNING] 
+> #### Minecraft is not FREE. However, playing Minecraft Classic in web & cracked java edition Minecraft from SKlauncher, ATlauncher, MultiMC, Prism Launcher, etc.
+> 
 <a href='https://youtube.com/@Aarish_Adhikary-UTCM' target="_blank"><img alt='YouTube' src='https://img.shields.io/badge/YouTube_Premium-100000?style=for-the-badge&logo=YouTube&logoColor=white&labelColor=C30000&color=C30000'/></a>
 
 
@@ -47,9 +50,7 @@
 > https://bafybeia6z4k53c5ta26g3m37kvmorcpfo3rvo4ashefxxmikvq3wouboda.ipfs.dweb.link/?filename=Eaglercraft_1.12_WASM_Offline_Download.zip- Eaglercraft 1.12.2 WASM-GC
 > https://bafybeidbtfaelrb6ras6llgwee5z6inve347s4qabuffvplezyamdojhfy.ipfs.dweb.link/?filename=Offline_Download_Version.zip- Eaglercraft 1.5.2 ZIP
 > ###       
->
 > ---
-> </details>
 >
 > 
 > <details>
@@ -61,44 +62,31 @@
 >   
 > ### This Project is not affiliated to Eaglercraft, Mojang Studio and Minecraft by any means and ways
 >
-> #### LET ME KNOW VIA GITHUB ISSUES. NOT EDITING THE ISSUES CAN LEAD TO FALIURE OF SOFTWARE
+> #### LET ME KNOW VIA GITHUB ISSUES. NOT EDITING THE ISSUES CAN LEAD TO FALIURE OF REPO
 > Email at- aarishadhikary365@outlook.com
 > </details>
 
-> [!NOTE]
-> #### This is a unofficial Eaglercraft Wiki.
-
-> [!WARNING] 
-> #### Minecraft is not FREE
-> However, playing Minecraft Classic in web & cracked java edition Minecraft from SKlauncher, ATlauncher, MultiMC, Prism Launcher, etc.
+<p align="left"> <a href=""> <img src="https://skillicons.dev/icons?i=gmail,html,windows,github,css,js" /> 
+  
 -->
 ## Welcome!
   We’re using Discussions as a place to connect with other members of our community. We hope that you:
   * Ask questions you’re wondering about.
   * Share ideas.
   * Engage with other community members.
-  * Welcome others and are open-minded. Remember that this is a community we
-  build together.
+  * Welcome others and are open-minded. Remember that this is a community we build together.
 
   To get started, comment below with an introduction of yourself and tell us about what you do with this community.
 
-<!--
-  For the maintainers, here are some tips for getting started with Discussions. We'll leave these in Markdown comments for now, but feel free to take out the comments for all maintainers to see.
-
-Discussions is available! Go ahead and send that tweet, post, or link it from the website to drive traffic here.
-
-  ➡️ You can convert issues to discussions either individually or bulk by labels. Looking at you, issues labeled “question” or “discussion”.
--->
-   
 # License
 
-This is the MIT License
+This is our MIT License
 
 
 <tr></tr>
           MIT License
 
-          Copyright © 2025 ZORED LLC
+          Copyright © 2026 ZORED LLC
 
           Permission is hereby granted, free of charge, to any person obtaining a copy
           of this software and associated documentation files (the "Software"), to deal
@@ -143,10 +131,6 @@ This is the MIT License
 
 <!---
 --->
-
-<p align="left"> <a href=""> <img src="https://skillicons.dev/icons?i=discord,gmail,html,windows,github,css,github,js" /> 
-
-By @Aarish_Adhikary-UTCM
 
  
 
