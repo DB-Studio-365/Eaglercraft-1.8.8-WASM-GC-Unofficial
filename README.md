@@ -131,11 +131,5 @@ This is our MIT License
 
 <!---
 --->
-
- 
-
-
-&copy; 2025 Website Of Aarish Adhikary &bull; [Code of Conduct](https://github.com/Clyde-365/Website-Of-Aarish-Adhikary?tab=coc-ov-file) &bull; [MIT License]
-
 # Here Are Our Contributers-
 
