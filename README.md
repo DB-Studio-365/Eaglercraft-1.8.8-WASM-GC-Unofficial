@@ -2,7 +2,7 @@
   <<< Note: This Project is not affiliated to Eaglercraft, Mojang Studio and Minecraft by any means and ways >>>
   Owned by ZORED LLC, and Aarish Adhikary
 -->
-# Eaglercraft 1.8.8 WASM-GC Unofficial
+# Eaglercraft Unofficial
 
 > [!WARNING] 
 > #### Minecraft is not FREE. However, playing Minecraft Classic in web & cracked java edition Minecraft from SKlauncher, ATlauncher, MultiMC, Prism Launcher, etc.
